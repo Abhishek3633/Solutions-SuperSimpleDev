@@ -14,9 +14,19 @@ In this repository, you will find folders dedicated to each exercise, with clear
 
 Feel free to explore, use, and modify the code to enhance your understanding of HTML and CSS. If you have any questions or need further clarification, don't hesitate to reach out.
 
+## Contribution
+
+If you have any improvements, suggestions, or additional solutions for the exercises, feel free to create a pull request. I welcome contributions from the community to make this resource even more valuable.
+
+Enjoy your learning journey with the SuperSimpleDev HTML/CSS course solutions!
+
+
 ## How to Use This Repository
 
 1. Clone the repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/supersimpledev-html-css-solutions.git
+   git clone https://github.com/Abhishek3633/Solutions-SuperSimpleDev.git
+   
+
+**Happy coding!** :computer:
