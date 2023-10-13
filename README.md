@@ -1,3 +1,5 @@
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 # SuperSimpleDev HTML/CSS Course Exercises Solutions
 
 This repository contains my solutions to the exercises from the SuperSimpleDev YouTube HTML/CSS course. You can find all the code and resources related to the exercises in this repository.
@@ -6,7 +8,7 @@ This repository contains my solutions to the exercises from the SuperSimpleDev Y
 
 The SuperSimpleDev HTML/CSS course is a fantastic resource for learning and mastering HTML and CSS. You can watch the course by clicking on the link below:
 
-[![YouTube Logo](SimpleDevSolutions-HTMLCss/images/youtube-logo.png)](https://www.youtube.com/supersimpledev)
+[![YouTube Logo](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/supersimpledev)
 
 ## Exercise Solutions
 
