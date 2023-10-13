@@ -25,10 +25,10 @@ Enjoy your learning journey with the SuperSimpleDev HTML/CSS course solutions!
 
 ## How to Use This Repository
 
-1. Clone the repository to your local machine using the following command:
-
+Clone the repository to your local machine using the following command:
+   
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
    ```bash
    git clone https://github.com/Abhishek3633/Solutions-SuperSimpleDev.git
-   
-
-**Happy coding!** :computer:
+```
+**💻HAPPY CODING**
