@@ -1,0 +1,25 @@
+p{
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.usd{
+    font-size: 24px;
+    margin-bottom: 5px;
+}
+.usd-span{
+    color: rgb(123, 123, 123);
+    font-weight: normal;
+    font-size: 14px;
+    margin-left: 6px;
+}
+.usd-today{
+    color: rgb(58, 182, 58);
+    margin-bottom: 5px;
+}
+.usd-after{
+    color: rgb(123, 123, 123);
+}
+.usdafter-span{
+    color: rgb(211, 46, 46);
+}
