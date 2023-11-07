@@ -1,0 +1,12 @@
+.div-box{
+    padding-left: 15px;
+    padding-right: 80px;
+    padding-top: 6px;
+    padding-bottom: 8px;
+
+    border: solid;
+    border-width: 1px;
+    border-color: rgb(182, 181, 181);
+    display: inline-block;
+
+}
