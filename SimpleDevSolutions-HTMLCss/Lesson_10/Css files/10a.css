@@ -1,0 +1,46 @@
+.img-div,
+        .catdescription-div,
+        .follow-div{
+            display: inline-block;
+            vertical-align: middle;
+        }
+        .follow-div{
+            margin-left: 150px;
+            
+        }
+        .catdescription-div{
+            margin-left: 18px;
+        }
+        .cat-img{
+            width: 80px;
+            border-radius: 50px;
+            cursor: pointer;
+        }
+        .name{
+            font-weight: bold;
+            cursor: pointer;
+        }
+        p{
+            font-family: Arial;
+            margin-top: 0px;
+            margin-bottom: 0px;
+            line-height: 23px;
+        }
+
+        .description,
+        .star{
+            color: gray;
+        }
+        .follow-button{
+            font-family: Arial;
+            font-size: 22px;
+            color: white;
+            background-color: rgb(36, 156, 255);
+            border: none;
+            border-radius: 7px;
+            padding-top: 8px;
+            padding-bottom: 8px;
+            padding-left: 18px;
+            padding-right: 18px;
+            cursor: pointer;
+        }
