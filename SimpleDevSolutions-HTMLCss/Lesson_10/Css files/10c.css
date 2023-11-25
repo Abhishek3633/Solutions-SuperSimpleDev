@@ -1,0 +1,41 @@
+.right-div,
+.left-div{
+    display: inline-block;
+    vertical-align: top;
+}
+.right-div{
+    margin-left: 10px;
+}
+.thumbnail{
+    width: 200px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+p{
+    font-family: roboto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.title{
+    width: 220px;
+    font-weight: 600;
+    margin-bottom: 5px;
+    line-height: 25px;
+    cursor: pointer;
+}
+.channel-name,
+.stats{
+    color: rgb(93, 93, 93);
+    font-size: 15px;
+    line-height: 20px
+
+}
+.stats{
+    cursor: default;
+}
+.channel-name{
+    cursor: pointer;
+}
+.main-div{
+    margin-bottom: 9px;
+}
