@@ -1,0 +1,72 @@
+.img-div,
+        .mutual-div{
+            display: inline-block;
+        }
+        .profile-icon,
+        .mutual{
+            vertical-align: middle;
+        }
+        .profile-picture{
+            width: 180px;
+            height: 190px;
+            object-fit: cover;
+        }
+        p{
+            font-family: Arial;
+            margin-top: 0px;
+            margin-bottom: 0px;
+        }
+        .name{
+            font-weight: bold;
+        }
+        .profile-icon{
+            width: 35px;
+            border-radius: 50px;
+        }
+        .mutual{
+            color: gray;
+            font-size: 14px;
+        }
+        .add-button{
+            color: white;
+            background-color: rgb(10, 137, 221);
+            border: none;
+            font-size: 15px;
+            font-family: roboto;
+            padding-top: 9px;
+            padding-bottom: 9px;
+            padding-left: 20px;
+            padding-right: 20px;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: opacity 0.11s;
+        }
+        .button-div{
+            margin-bottom: 8px;
+        }
+        .img_mutual-div{
+            margin-bottom: 10px;
+        }
+        .mutual-div{
+            margin-left: 5px;
+        }
+        .name-div{
+            margin-top: 10px;
+            margin-bottom: 8px;
+        }
+        .main-div{
+            display: inline-block;
+            box-shadow: 0px 1px 10px rgb(121, 121, 121);
+            margin-left: 10px;
+            margin-right: 10px;
+        }
+        .lower-div{
+            margin-left: 6px;
+        }
+        .add-button:hover{
+            opacity:0.8;
+        }
+        .add-button:active{
+            color: rgb(10, 137, 221);
+            background-color: white;
+        }
